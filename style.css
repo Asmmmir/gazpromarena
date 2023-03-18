@@ -1,0 +1,136 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500&display=swap');
+
+
+h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Oswald', sans-serif;
+
+
+}
+
+
+.header { 
+
+background-image: url(img/first-screen.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 300px;
+
+
+}
+
+.wrapper { 
+margin-top: -40px;
+background-color: white;
+
+
+}
+
+.years h1 { 
+color: #F7654A;
+font-size: 50px;
+
+
+}
+
+
+
+.years h2 { 
+font-weight: 600;
+    
+    
+    }
+
+.arena img {
+width: 100%;
+
+
+}
+
+    /* SECTION ONE  */
+
+
+.section-1{
+width: 100%;
+background-color: #F7654A;
+min-height: 150px ;
+
+
+
+}
+
+.section1-text {
+color: white;
+
+
+}
+
+.buildings img {
+width: 100%;
+
+}
+
+
+.qa {
+margin-top: 100px;
+
+
+}
+
+.qa button {
+width: 35%;
+margin-bottom: 10px;
+border: none;
+color:#F7654A;
+font-size: 24px;
+font-weight: 700;
+
+}
+
+.qa-wrapper{
+
+display: flex;
+flex-direction: column;
+
+}
+
+
+/* SECTION 4  */
+
+.section-4 { 
+background-color: #5c5a5a;
+width: 100%;
+min-height: 300px;
+color: white;
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+
+}
+
+.section-4 img {
+width: 80%;
+
+
+}
+
+.feedback>div {
+width: 30%;
+
+
+}
+
+.apply-button {
+border: none;
+background-color: white;
+font-family: Oswald;
+
+
+}
+
+.footer {
+width: 100%;
+background-color: #5c5a5a;
+min-height: 10px;
+}
